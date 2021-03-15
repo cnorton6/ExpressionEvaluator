@@ -6,8 +6,8 @@ Expression Evaluator is a C# console application for evaluating arithmetic expre
 
 After downloading the solution, navigate to the solution file (ExpressionEvaluator.sln)
 
-```bash
-pip dotnet publish
+```
+dotnet publish
 ```
 
 ## Usage
